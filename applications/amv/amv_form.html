@@ -1,0 +1,272 @@
+---
+title: AMV Contest Submission
+---
+{% assign ab_optional_label = "col-xl-3 col-lg-4 control-label" %}
+{% assign ab_required_label = "col-xl-3 col-lg-4 control-label required" %}
+{% assign ab_optional_short_label = "col-xl-2 col-lg-4 control-label" %}
+{% assign ab_required_short_label = "col-xl-2 col-lg-4 control-label required" %}
+
+<h1>Anime Music Video Contest Submission</h1>
+
+<p>Please enter your information below to submit your entries to thes 2020 Anime Music Video Contest.</p>
+<p class="text-danger"><b>DO NOT SUBMIT THIS FORM UNTIL YOU ARE READY TO SEND IN YOUR VIDEO!</b></p>
+
+<form class="form-horizontal" name="amv_submission_form" action="/AB-Site-Redesign/applications/amv/amv_finish.html" method="get">
+  <p><span class="required">*</span> = Required information</p>
+  <div class="row form-group">
+    <label for="primary_first_name" class="{{ ab_required_label }}">First Name *</label>
+    <div class="col-lg-5">
+      <input type="text" name="primary_first_name" class="form-control" maxlength="70">
+      <span class="input-subtitle">Must be your real first name</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="primary_last_name" class="{{ ab_required_label }}">Last Name *</label>
+    <div class="col-lg-5">
+      <input type="text" name="primary_last_name" class="form-control" maxlength="70">
+      <span class="input-subtitle">Must be your real last name</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="other_contestants" class="{{ ab_optional_label }}">Other Contestants</label>
+    <div class="col-lg-7">
+      <textarea name="other_contestants" class="form-control" rows="8" cols="40"></textarea>
+      <span class="input-subtitle">
+        Please list the real first and last names of anyone else who worked on this video.<br>
+        Separate each name with a semicolon (;)
+      </span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label class="{{ ab_required_label }}">Mailing Address *</label>
+    <div class="col-lg-8">
+      <div class="form-inline">
+        <label class="required">Address 1</label>
+        <input type="text" name="address1" class="form-control" maxlength="70">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-xl-3 offset-lg-4">
+      <div class="form-inline">
+        <label>Address 2</label>
+        <input type="text" name="address2" class="form-control" maxlength="70">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-xl-3 offset-lg-4">
+      <div class="form-inline">
+        <label class="required">City</label>
+        <input type="text" name="city" class="form-control" maxlength="70">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-xl-3 offset-lg-4">
+      <div class="form-inline">
+        <label class="required">State</label>
+        <input type="text" name="state" class="form-control" maxlength="3" size="2">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-xl-3 offset-lg-4">
+      <div class="form-inline">
+        <label class="required">Zip Code</label>
+        <input type="text" name="zip" class="form-control" maxlength="10">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-xl-3 offset-lg-4">
+      <div class="form-inline">
+        <label class="required">Country</label>
+        <select name="country" class="form-control">
+          <option value="">United States</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="age_confirmation" class="{{ ab_required_label }}">Age Confirmation *</label>
+    <div class="col-lg-5 checkbox">
+      <label>
+        <input type="checkbox" name="age_confirmation" value="1">
+        <span class="input-subtitle required">I am 13 years old or older</span>
+      </label>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="phone1" class="{{ ab_required_label }}">Phone Number *</label>
+    <div class="col-lg-4">
+      <input type="tel" name="phone1" class="form-control" maxlength="15">
+      <span class="input-subtitle">Numbers only, no letters or characters</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="email" class="{{ ab_required_label }}">Contact E-Mail Address *</label>
+    <div class="col-lg-6">
+      <input type="email" name="email" class="form-control" maxlength="70">
+      <span class="input-subtitle">You will be emailed a copy of this information and submission instructions, so please ensure this address is accurate</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="email_confirm" class="{{ ab_required_label }}">Confirm Contact E-Mail Address *</label>
+    <div class="col-lg-6">
+      <input type="email" name="email_confirm" class="form-control" maxlength="70">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="submission_style" class="{{ ab_required_label }}">Submission Method *</label>
+    <div class="col-lg-5">
+      <select name="submission_style" class="form-control">
+        <option>Pick One</option>
+        <option>Electronic Submission (Online)</option>
+      </select>
+      <span class="input-subtitle">Submission instructions will be emailed to you</span>
+    </div>
+  </div>
+  <div class="row"><div class="col-xs-12"><hr></div></div>
+  <div class="row form-group">
+    <label for="amv_total" class="{{ ab_optional_label }}">Videos</label>
+    <div class="col-lg-4">
+      <span class="input-subtitle">How many videos are you submitting?</span><br>
+      <select name="amv_total" class="form-control" onchange="show()">
+        <option value="1">1</option>
+        <option value="2">2</option>
+      </select>
+    </div>
+  </div>
+  <div class="row"><div class="col-xs-12"><hr></div></div>
+  {% for i in (1..2) %}
+    <div id="amv{{ i }}" class="row form-group" style="display:none">
+      <label class="{{ ab_required_short_label }}">Video {{ i }} *</label>
+      <div class="col-lg-9">
+        <div class="row form-group">
+          <label for="amv_title[{{ i }}]" class="{{ ab_required_label }}">Video Title {{ i }} *</label>
+          <div class="col-lg-8">
+            <input type="text" name="amv_title[{{ i }}]" class="form-control" maxlength="70">
+          </div>
+        </div>
+        <div class="row form-group">
+          <label for="amv_song[{{ i }}]" class="{{ ab_required_label }}">Song Title *</label>
+          <div class="col-lg-8">
+            <input type="text" name="amv_song[{{ i }}]" class="form-control" maxlength="70">
+          </div>
+        </div>
+        <div class="row form-group">
+          <label for="amv_artist[{{ i }}]" class="{{ ab_required_label }}">Song Artist(s) *</label>
+          <div class="col-lg-8">
+            <input type="text" name="amv_artist[{{ i }}]" class="form-control" maxlength="70">
+          </div>
+        </div>
+        <div class="row form-group">
+          <label for="amv_sources[{{ i }}]" class="{{ ab_required_label }}">Anime Title(s) Used *</label>
+          <div class="col-lg-8">
+            <textarea name="amv_sources[{{ i }}]" class="form-control" rows="6" cols="40"></textarea>
+            <span class="input-subtitle">Separate each title with a semicolon (;)</span>
+          </div>
+        </div>
+        <div class="row form-group">
+          <label for="amv_credits[{{ i }}]" class="{{ ab_optional_label }}">Name ofr Credits/Ballots *</label>
+          <div class="col-lg-8">
+            <input type="text" name="amv_credits[{{ i }}]" class="form-control" maxlength="70"<br>
+            <span class="input-subtitle">If different from your first and last name</span>
+          </div>
+        </div>
+        <div class="row form-group">
+          <label class="{{ ab_required_label }}">Completion Date *</label>
+          <div class="col-lg-8 form-inline">
+            <label class="required">Month</label>
+            <select name="amv_month[{{ i }}]" class="form-control">
+              {% for month in (1..12) %}
+              <option value="{{ month }}">{{ month }}</option>
+              {% endfor %}
+            </select>
+            <label class="required">Day</label>
+            <select name="amv_day[{{ i }}]" class="form-control">
+              {% for day in (1..31) %}
+              <option value="{{ day }}">{{ day }}</option>
+              {% endfor %}
+            </select>
+            <label class="required">Year</label>
+            <select name="amv_day[{{ i }}]" class="form-control">
+              {% for year in (2005..2020) %}
+              <option value="{{ year }}">{{ year }}</option>
+              {% endfor %}
+            </select>
+          </div>
+        </div>
+        <div class="row form-group">
+          <label for="amv_category[{{ i }}]" class="{{ ab_required_label }}">Category *</label>
+          <div class="col-lg-5">
+            <select name="amv_category[{{ i }}]" class="form-control">
+              <option>Comedy</option>
+              <option>Action</option>
+              <option>Drama</option>
+              <option>Romance</option>
+              <option>Other</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row"><div class="col-xs-12"><hr></div></div>
+  {% endfor %}
+  <div class="row form-group">
+    <label class="{{ ab_optional_label }}">Proxy</label>
+    <div class="col-lg-8">
+      <span class="input-subtitle">
+        If you will not be attending the convention and would like a friend to act as a proxy and accept any award(s) you may win,
+        please provide that person's name here. Your award(s) will not be handed over to anyone other than the people listed above or the proxy listed below.
+        Please use their real name.
+      </span>
+    </div>
+    <div class="col-lg-8 offset-xl-3 offset-lg-4">
+      <div class="form-inline">
+        <label>First Name</label>
+        <input type="text" name="proxy_first" class="form-control" maxlength="70">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-xl-3 offset-lg-4">
+      <div class="form-inline">
+        <label>Last Name</label>
+        <input type="text" name="proxy_last" class="form-control" maxlength="70">
+      </div>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="staff_check" class="{{ ab_required_label }}">Staff Membership *</label>
+    <div class="col-lg-8">
+      <span class="required">Are you (or any other contestant) a staff member for Anime Boston <?=$currentyear?> or the NEAS?</span><br>
+      <label><input type="radio" name="staff_check" value="Yes"> Yes</label>
+      <label><input type="radio" name="staff_check" value="No"> No</label><br>
+      <span class="input-subtitle">AB and NEAS Staff may compete in the AMV Contests, except for those directly involved with planning and running the contests.</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="read_rules" class="{{ ab_required_label }}">Contest Rules *</label>
+    <div class="col-lg-8">
+      <span class="required">Have you read and agree to the <a href="AB-Site-Redesign/participation/amv/" target="_blank">AMV Contest Rules</a>?</span><br>
+      <label><input type="radio" name="read_rules" value="Yes"> Yes</label>
+      <label><input type="radio" name="read_rules" value="No"> No</label><br>
+    </div>
+  </div>
+  <div class="submit-buttons">
+    <input type="submit" name="submit" class="btn btn-success" value="Submit">
+    <input type="reset" name="reset" class="btn btn-secondary" value="Reset">
+  </div>
+</form>
+
+<script type = "text/javascript">
+  function show()
+  {
+    var intCount = document.amv_submission_form.amv_total.options.length;
+    var intValue = document.amv_submission_form.amv_total.value;
+
+    for(i = 1; i <= intValue; i++)
+    {
+      assoc = "amv"+i;
+      hidden_row_object = document.getElementById(assoc);
+      hidden_row_object.style.display = '';
+    }
+
+    for(j = intCount; j > intValue; j--)
+    {
+      assoc = "amv"+j;
+      hidden_row_object = document.getElementById(assoc);
+      hidden_row_object.style.display = 'none';
+    }
+  }
+</script>

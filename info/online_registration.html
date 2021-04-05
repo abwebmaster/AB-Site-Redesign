@@ -1,0 +1,28 @@
+---
+title: Attend & Registration
+---
+<div class="registration-jumbotron jumbotron text-center clearfix">
+  <h1>Online Registration is OPEN!!</h1>
+  <p>
+    <a class="btn btn-primary btn-lg" href="#" role="button">Register for Anime Boston 2020</a>
+    <a class="btn btn-success btn-lg" href="/AB-Site-Redesign/info/hotel_information.html">Book your Hotel</a>
+    <br>
+    <small><a href="/AB-Site-Redesign/policy/registration_policy.html">Registration Policy</a></small>
+  </p>
+  <div class="float-right text-center">
+    <div class="registration-counter">
+      40,000 Tickets Remaining
+      <div class="registration-counter-update">Updated June 18, 2020</div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  {% for information in site.data.information %}
+  <div class="col-12 col-lg-6 col-xl-4">
+    <a class="page-menu-link btn btn-secondary" href="{{ information.link }}">
+      <h2>{{ information.title }}</h2>
+    </a>
+  </div>
+  {% endfor %}
+</div>

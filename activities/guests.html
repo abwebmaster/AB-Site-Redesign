@@ -1,0 +1,46 @@
+---
+title: Guests
+---
+<div class="side-submenu col-sm-3 float-right">
+  <a href="/AB-Site-Redesign/activities/autograph_schedule.html" class="btn btn-secondary">
+    Autograph Schedule
+  </a>
+  <a href="/AB-Site-Redesign/policy/convention_policy.html#autograph-policy" class="btn btn-secondary">
+    Autograph Policy
+  </a>
+  <a href="/AB-Site-Redesign/activities/guest_faq.html" class="btn btn-secondary">
+    Frequently Asked Questions
+  </a>
+</div>
+
+<h1>Guests</h1>
+
+<div class="row">
+  <div class="col">
+    <p>Please select a year to view its Guests</p>
+    <ul class="years-menu">
+      {% for year in (2003..2021) reversed %}
+        <li>
+          <a href="#">{{ year }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{% for guest_section in site.data.guests %}
+  <h2>{{ guest_section.title }}</h2>
+  <div class="row">
+    {% for guest in guest_section.guests %}
+    <div class="col-12 col-lg-4 col-xl-3">
+      <a href="/AB-Site-Redesign/activities/guest_details.html">
+        <img class="img-fluid" src="https://via.placeholder.com/345x200">
+        <span class="btn btn-primary media-button-link">
+          {{ guest.name }}<br>
+          <small><em>{{ guest.description }}</em></small>
+        </span>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+{% endfor %}

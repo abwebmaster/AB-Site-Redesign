@@ -1,0 +1,106 @@
+---
+title: Group Registration Application
+---
+{% assign ab_optional_label = "col-xl-3 col-lg-4 control-label" %}
+{% assign ab_required_label = "col-xl-3 col-lg-4 control-label required" %}
+{% assign ab_optional_short_label = "col-xl-2 col-lg-4 control-label" %}
+{% assign ab_required_short_label = "col-xl-2 col-lg-4 control-label required" %}
+
+<h1>Group Registration Application</h1>
+
+<p>
+  Fill out the following information completely, and please note the Group
+  contact does not have to register for Anime Boston and this is not a registration form.
+  Group contacts must be 18+ and associated with an educational organization.
+</p>
+
+<form class="form-horizontal" action="/AB-Site-Redesign/info/group_registration/group_registration_finish.html" method="get">
+  <p><span class="required">*</span> = Required information</p>
+  <div class="row form-group">
+    <label for="first_name" class="{{ ab_required_label }}">First Name *</label>
+    <div class="col-lg-6">
+      <input type="text" name="first_name" class="form-control" maxlength="70">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="last_name" class="{{ ab_required_label }}">Last Name *</label>
+    <div class="col-lg-6">
+      <input type="text" name="last_name" class="form-control" maxlength="70">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="edu_organization" class="{{ ab_required_label }}">Educational Organization *</label>
+    <div class="col-lg-7">
+      <input type="text" name="edu_organization" class="form-control" maxlength="70">
+      <span class="input-subtitle">You must be associated with a school or educational group to qualify.</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="position" class="{{ ab_required_label }}">Your Position *</label>
+    <div class="col-lg-6">
+      <input type="text" name="position" class="form-control" maxlength="70">
+      <span class="input-subtitle">Within your organization are you a teacher, employee, club president, etc...</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="org_email" class="{{ ab_required_label }}">Email Address *</label>
+    <div class="col-lg-5">
+      <input type="email" name="org_email" class="form-control" maxlength="70">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="org_email_confirm" class="{{ ab_required_label }}">Confirm Email Adderess *</label>
+    <div class="col-lg-5">
+      <input type="email" name="org_email_confirm" class="form-control" maxlength="70">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="phone1" class="{{ ab_required_label }}">Phone Number &amp; Type *</label>
+    <div class="col-lg-5">
+      <div>
+        <span class="input-subtitle">Numbers only, no letters or characters</span>
+        <input type="tel" name="phone1" class="form-control" maxlength="15">
+      </div>
+      <div>
+        <label><input type="radio" name="phone1_type" value="Home"> Home</label>
+        <label><input type="radio" name="phone1_type" value="Mobile"> Mobile</label>
+      </div>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label class="{{ ab_required_label }}">Date of Birth * *</label>
+    <div class="col-lg-8 form-inline">
+      <label class="required">Month</label>
+      <select name="birth_month" class="form-control">
+        {% for month in (1..12) %}
+        <option value="{{ month }}">{{ month }}</option>
+        {% endfor %}
+      </select>
+      <label class="required">Day</label>
+      <select name="birth_day" class="form-control">
+        {% for day in (1..31) %}
+        <option value="{{ day }}">{{ day }}</option>
+        {% endfor %}
+      </select>
+      <label class="required">Year</label>
+      <select name="birth_year" class="form-control">
+        {% for year in (1940..2010) %}
+        <option value="{{ year }}">{{ year }}</option>
+        {% endfor %}
+      </select>
+      <br>
+      <span class="input-subtitle">You must be 18+ in order to request the group discount</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="group_total" class="{{ ab_required_label }}">Group Total *</label>
+    <div class="col-lg-5">
+      <input type="number" name="group_total" class="form-control" maxlength="5">
+      <span class="input-subtitle">Your group must have a minimum of 10 people.</span>
+    </div>
+  </div>
+  <div class="submit-buttons">
+    <input type="submit" name="submit" class="btn btn-success" value="Submit">
+    <input type="reset" name="reset" class="btn btn-secondary" value="Reset">
+  </div>
+</form>

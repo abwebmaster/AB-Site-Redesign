@@ -1,0 +1,295 @@
+---
+title: Dealers' Room Registration
+---
+{% assign ab_optional_label = "col-xl-3 col-lg-4 control-label" %}
+{% assign ab_required_label = "col-xl-3 col-lg-4 control-label required" %}
+{% assign ab_optional_short_label = "col-xl-2 col-lg-4 control-label" %}
+{% assign ab_required_short_label = "col-xl-2 col-lg-4 control-label required" %}
+
+<h1>Dealers' Room Registration</h1>
+
+<p>This is the registration for booth space in the Anime Boston 2020 Dealers' Room.</p>
+<p>
+  Please be aware that booth space is on a <em>first-come, first-serve basis</em>.<br>
+  This form will confirm that the booths you select are still available once you submit it.<br>
+  If they are not, you will have to choose again.
+</p>
+<p>In the event no booth spaces are available, this form will serve as a wait list for any potential openings.</p>
+
+<form class="form-horizontal" action="/AB-Site-Redesign/applications/dealers/dealers_finish.html" method="get">
+  <p><span class="required">*</span> = Required information</p>
+  <p><b>Company Information</b> - Enter your company's information.</p>
+  <div class="row form-group">
+    <label for="company_name" class="{{ ab_required_label }}">Company Name *</label>
+    <div class="col-lg-6">
+      <input type="text" name="company_name" class="form-control" maxlength="250">
+      <span class="input-subtitle required">Please enter your company's legal name.</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="display_name" class="{{ ab_optional_label }}">Display Name</label>
+    <div class="col-lg-6">
+      <input type="text" name="display_name" class="form-control" maxlength="250">
+      <span class="input-subtitle">How you would like your company to be presented as, if different from Company Name.</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="first_name" class="{{ ab_required_label }}">Primary Contact's First Name *</label>
+    <div class="col-lg-4">
+      <input type="text" name="first_name" class="form-control" maxlength="150">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="last_name" class="{{ ab_required_label }}">Primary Contact's Last Name *</label>
+    <div class="col-lg-4">
+      <input type="text" name="last_name" class="form-control" maxlength="150">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label class="{{ ab_required_label }}">Primary Contact's Date of Birth *</label>
+    <div class="col-lg-9">
+      <div class="form-inline">
+        <label class="required">Month</label>
+        <select name="birth_month" class="form-control">
+          {% for month in (1..12) %}
+          <option value="{{ month }}">{{ month }}</option>
+          {% endfor %}
+        </select>
+        <label class="required">Day</label>
+        <select name="birth_day" class="form-control">
+          {% for day in (1..31) %}
+          <option value="{{ day }}">{{ day }}</option>
+          {% endfor %}
+        </select>
+        <label class="required">Year</label>
+        <select name="birth_year" class="form-control">
+          {% for year in (1940..2010) %}
+          <option value="{{ year }}">{{ year }}</option>
+          {% endfor %}
+        </select>
+      </div>
+      <div class="input-subtitle required">Primary contact must be 18 years of age.</div>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="age_confirmation" class="{{ ab_required_label }}">Age Confirmation *</label>
+    <div class="col-lg-5 checkbox">
+      <label>
+        <input type="checkbox" name="age_confirmation" value="1">
+        <span class="input-subtitle required">I am 18 years old or older</span>
+      </label>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="email" class="{{ ab_required_label }}">E-Mail Address *</label>
+    <div class="col-lg-6">
+      <input type="email" name="email" class="form-control" maxlength="150">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="email_confirm" class="{{ ab_required_label }}">Confirm E-Mail Address *</label>
+    <div class="col-lg-6">
+      <input type="email" name="email_confirm" class="form-control" maxlength="150">
+    </div>
+  </div>
+  <div class="row form-group">
+    <label class="{{ ab_required_label }}">Mailing Address *</label>
+    <div class="col-lg-8">
+      <div class="form-inline">
+        <label class="required">Address 1</label>
+        <input type="text" name="address_1" class="form-control" maxlength="150">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-lg-3">
+      <div class="form-inline">
+        <label>Address 2</label>
+        <input type="text" name="address_2" class="form-control" maxlength="150">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-lg-3">
+      <div class="form-inline">
+        <label class="required">City</label>
+        <input type="text" name="city" class="form-control" maxlength="150">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-lg-3">
+      <div class="form-inline">
+        <label class="required">State</label>
+        <input type="text" name="state" class="form-control" maxlength="150" size="2">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-lg-3">
+      <div class="form-inline">
+        <label class="required">Zip Code</label>
+        <input type="text" name="zip" class="form-control" maxlength="150">
+      </div>
+    </div>
+    <div class="col-lg-8 offset-lg-3">
+      <div class="form-inline">
+        <label class="required">Country</label>
+        <select class="form-control">
+          <option></option>
+          <option>United States</option>
+        </select>
+      </div>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="phone1" class="{{ ab_required_label }}">Phone 1 *</label>
+    <div class="form-inline col-lg-9">
+      <input type="tel" name="phone1" class="form-control" maxlength="150">
+      <select name="phone1_type" class="form-control">
+        <option>Home</option>
+        <option>Work</option>
+        <option>Cell</option>
+      </select>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="phone2" class="{{ ab_optional_label }}">Phone 2</label>
+    <div class="form-inline col-lg-9">
+      <input type="tel" name="phone2" class="form-control" maxlength="150">
+      <select name="phone2_type" class="form-control">
+        <option>Home</option>
+        <option>Work</option>
+        <option>Cell</option>
+      </select>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="website" class="{{ ab_optional_label }}">Website</label>
+    <div class="col-lg-6">
+      <input type="text" name="website" class="form-control" maxlength="150">
+      <span class="input-subtitle">Your website will be included on our Dealers' Room Listing page.</span>
+    </div>
+  </div>
+  <div class="row form-group">
+    <label for="products" class="{{ ab_required_label }}">Products *</label>
+    <div class="col-lg-7">
+      <textarea name="products" class="form-control" rows="5" cols="40"></textarea>
+      <span class="input-subtitle required">Please provide a brief list of the primary products you will be selling.</span>
+    </div>
+  </div>
+  <hr>
+  <p><b>Booth Selection</b> - Choose your booths from available spaces.</p>
+  <p>Currently availble booths are listed below. Each booth is 8 feet in length.</p>
+  <p>
+    Please be aware, booth space is on a <em>first-come, first-serve basis</em>.<br>
+    This form will confirm that the booths you select are still available once you submit it.<br>
+    If they are not, you will have to choose again.
+  </p>
+
+  <p>In the event no booth spaces are available, this form will serve as a wait list for any potential openings.</p>
+
+  <div class="dealers-form-image">
+    <img src="https://www.animeboston.com/images/dealers/dealers_room_base_map_2020.png" alt="Dealers Room Base Map 2020" border="0" usemap="#DR7_map" style="user-select: none;user-select:-moz-none">
+    <map name="DR7_map">
+      {% for booth in site.data.dealers_room_booths %}
+      <div id="booth_{{ booth.booth_id }}"
+        data-booth_number="{{ booth.booth_number }}"
+        data-booth_cost="{{ booth.booth_cost }}"
+        data-booth_type="available"
+        style="position:absolute;left:{{ booth.x_coord }}px;top:{{ booth.y_coord }}px;width:{{ booth.x_width }}px;height:{{ booth.y_height }}px;background-color:#00FF00;opacity:0.4;user-select: none;"
+        onclick="boothMap({{ booth.booth_id }});"
+        title="Booth: #{{ booth.booth_number }}&#10;Status: Available&#10;Price: ${{ booth.booth_cost }}">
+      </div>
+      {% endfor %}
+    </map>
+  </div>
+  <table id="total_list" class="dealers-table table-striped table-bordered">
+    <tr>
+      <th>Booth</th>
+      <th>Cost</th>
+    </tr>
+    <tr id="total_row">
+      <th id="total_booths" data-total_booths="0">Total: 0 booth</th>
+      <th id="total_cost" data-total_cost="0">$0.00</th>
+    </tr>
+  </table>
+  <div class="submit-buttons">
+    <input type="submit" name="submit" class="btn btn-success" value="Submit Registration">
+    <input type="reset" name="reset" class="btn btn-secondary" value="Clear">
+  </div>
+</form>
+
+<script type="text/javascript">
+  function boothMap(booth_id)
+  {
+    //Gets the booth information
+    var booth_space = document.getElementById('booth_' +booth_id);
+    var booth_number = parseInt(booth_space.getAttribute('data-booth_number'));
+    var booth_type = booth_space.getAttribute("data-booth_type");
+    var booth_cost = parseInt(booth_space.getAttribute("data-booth_cost"));
+
+    //Gets the information for the total booths list
+    var total_list = document.getElementById('total_list');
+    var total_row = document.getElementById('total_row');
+    var total_row_index = total_row.rowIndex;
+    var total_booths_cell = document.getElementById('total_booths');
+    var total_booths = parseInt(total_booths_cell.getAttribute('data-total_booths'));
+    var total_cost_cell = document.getElementById('total_cost');
+    var total_cost = parseInt(total_cost_cell.getAttribute('data-total_cost'));
+
+    if(booth_type == 'available')
+    {
+      //Adds the booth to a new row in the total table
+      insert_index = total_row_index;
+      var new_row = total_list.insertRow(insert_index);
+      new_row.setAttribute('id','total_row_'+booth_id);
+      new_cell1 = new_row.insertCell(0);
+      new_cell2 = new_row.insertCell(1);
+      hidden_input = '<input type="hidden" name="chosen_booths[]" value="' +booth_id + '">';
+      new_cell1.innerHTML = hidden_input + '#' + booth_number;
+      new_cell2.innerHTML = '$' + booth_cost.toFixed(2);
+
+      //Updates the total number of booths
+      total_booths = total_booths + 1;
+      total_booths_cell.setAttribute('data-total_booths',total_booths);
+      if(total_booths == 1)
+      {
+        total_booths_cell.innerHTML = 'Total: ' + total_booths + ' booth';
+      }
+      else
+      {
+        total_booths_cell.innerHTML = 'Total: ' + total_booths + ' booths';
+      }
+
+      //Updates the total cost in cell and attribute
+      total_cost = total_cost + booth_cost;
+      total_cost_cell.setAttribute('data-total_cost',total_cost);
+      total_cost_cell.innerHTML = '$' + total_cost.toFixed(2);
+
+      //Changes booth status to Selected
+      booth_space.setAttribute('data-booth_type','selected');
+      booth_space.style.backgroundColor = '#0000FF';
+    }
+    else if(booth_type == 'selected')
+    {
+      //Removes the booth from the total table
+      total_row_id = 'total_row_' + booth_id;
+      old_row = document.getElementById(total_row_id);
+      old_row.parentNode.removeChild(old_row);
+
+      //Updates the total number of booths
+      total_booths = total_booths - 1;
+      total_booths_cell.setAttribute('data-total_booths',total_booths);
+      if(total_booths == 1)
+      {
+        total_booths_cell.innerHTML = 'Total: ' + total_booths + ' booth';
+      }
+      else
+      {
+        total_booths_cell.innerHTML = 'Total: ' + total_booths + ' booths';
+      }
+
+      //Updates the total cost in cell and attribute
+      total_cost = total_cost - booth_cost;
+      total_cost_cell.setAttribute('data-total_cost',total_cost);
+      total_cost_cell.innerHTML = '$' + total_cost.toFixed(2);
+
+      //Changes booth status to Available
+      booth_space.setAttribute('data-booth_type','available');
+      booth_space.style.backgroundColor = '#00FF00';
+    }
+  }
+</script>
