@@ -17,11 +17,11 @@ title: Attend & Registration
   </div>
 </div>
 
-<div class="row">
+<div class="row menu-secondary">
   {% for information in site.data.information %}
   <div class="col-12 col-lg-6 col-xl-4">
-    <a class="page-menu-link btn btn-secondary" href="{{ information.link }}">
-      <h2>{{ information.title }}</h2>
+    <a class="btn btn-secondary" href="{{ information.link }}">
+      {{ information.title }}
     </a>
   </div>
   {% endfor %}

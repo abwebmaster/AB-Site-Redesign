@@ -1,7 +1,7 @@
 ---
 title: Press Pass
 ---
-<div class="side-submenu col-sm-3 float-right">
+<div class="menu-secondary col-sm-3 float-right">
   <a href="/AB-Site-Redesign/applications/press/press_pass_form.html" class="btn btn-secondary">
     Apply for a Press Pass
   </a>

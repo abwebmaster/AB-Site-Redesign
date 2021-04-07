@@ -1,7 +1,7 @@
 ---
 title: Cosplay Games
 ---
-<div class="side-submenu col-sm-3 float-right">
+<div class="menu-secondary col-sm-3 float-right">
   <a href="/AB-Site-Redesign/activities/cosplay/how_to_apply.html" class="btn btn-secondary">
     How to Participate in a Cosplay Game
   </a>

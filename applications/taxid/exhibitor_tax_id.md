@@ -1,7 +1,7 @@
 ---
 title: Exhibitor Tax ID
 ---
-<div class="side-submenu col-sm-3 float-right">
+<div class="menu-secondary col-sm-3 float-right">
   <a href="/AB-Site-Redesign/applications/taxid/exhibitor_tax_id_form.html" class="btn btn-secondary">
     Submit your Exhibitor Tax ID
   </a>

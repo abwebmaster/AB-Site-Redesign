@@ -1,7 +1,7 @@
 ---
 title: Masquerade
 ---
-<div class="side-submenu col-sm-3 float-right">
+<div class="menu-secondary col-sm-3 float-right">
   <a href="/AB-Site-Redesign/participation/cosplay/masquerade.html" class="btn btn-secondary">
     Apply to be in the Masquerade
   </a>
