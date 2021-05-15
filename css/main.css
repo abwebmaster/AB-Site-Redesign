@@ -28,9 +28,20 @@ body, .logo {
 	width: 100%;
 }
 
+.menu-secondary {
+	margin-bottom: 5px;
+}
+
 .menu-secondary a {
-	width: 100%;
-	margin-bottom: 2px;
+	color: #fff;
+	background-color: #6c757d;
+	border-radius: .25rem;
+	margin: 0 5px;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.menu-secondary a:hover {
+	background-color: #5a6268;
 }
 
 /* ==========================================================================
@@ -226,6 +237,7 @@ a.dropdown-item {
 
 .article-title {
 	font-weight: bold;
+	font-size: 1.2rem;
 }
 
 .article-timestamp {
