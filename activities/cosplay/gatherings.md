@@ -1,8 +1,8 @@
 ---
 title: Cosplay Gatherings
 ---
-<div class="menu-secondary col-sm-3 float-right">
-  <a href="/AB-Site-Redesign/activities/cosplay/photoshoots.html" class="btn btn-secondary">
+<div class="nav menu-secondary">
+  <a href="/AB-Site-Redesign/activities/cosplay/photoshoots.html" class="nav-link">
     Photoshoot Schedule
   </a>
 </div>

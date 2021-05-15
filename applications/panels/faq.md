@@ -1,9 +1,9 @@
 ---
 title: Panel Application
 ---
-<div class="menu-secondary col-sm-3 float-right">
-  <a href="/AB-Site-Redesign/applications/panels/panel_form.html" class="btn btn-secondary">
-    Do you want to run a Panel?
+<div class="nav menu-secondary">
+  <a href="/AB-Site-Redesign/applications/panels/panel_form.html" class="nav-link">
+    Apply to Run a Panel
   </a>
 </div>
 

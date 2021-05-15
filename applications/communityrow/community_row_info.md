@@ -1,8 +1,8 @@
 ---
 title: Community Row
 ---
-<div class="menu-secondary col-sm-3 float-right">
-  <a href="/AB-Site-Redesign/applications/communityrow/community_row_form.html" class="btn btn-secondary">
+<div class="nav menu-secondary">
+  <a href="/AB-Site-Redesign/applications/communityrow/community_row_form.html" class="nav-link">
     Apply for Community Row
   </a>
 </div>

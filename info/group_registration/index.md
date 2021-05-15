@@ -1,8 +1,8 @@
 ---
 title: Group Registration
 ---
-<div class="menu-secondary col-sm-3 float-right">
-  <a href="/AB-Site-Redesign/info/group_registration/group_registration_form.html" class="btn btn-secondary">
+<div class="nav menu-secondary">
+  <a href="/AB-Site-Redesign/info/group_registration/group_registration_form.html" class="nav-link">
     Apply for Group Registration
   </a>
 </div>

@@ -28,20 +28,22 @@ body, .logo {
 	width: 100%;
 }
 
-.menu-secondary {
-	margin-bottom: 5px;
-}
-
 .menu-secondary a {
 	color: #fff;
 	background-color: #6c757d;
 	border-radius: .25rem;
 	margin: 0 5px;
 	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+	margin-bottom: 5px;
 }
 
 .menu-secondary a:hover {
 	background-color: #5a6268;
+}
+
+.secondary-block-menu a {
+	width: 100%;
+	margin-bottom: 2px;
 }
 
 /* ==========================================================================
