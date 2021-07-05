@@ -32,3 +32,8 @@ Applications
 - Artist Alley
 - Community Row
 - Anything else
+
+---
+
+Next Steps
+Take Nabil's sitemap and feedback and redo the layout of the redesigned site.
