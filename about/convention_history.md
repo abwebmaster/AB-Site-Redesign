@@ -1,26 +1,11 @@
 ---
-title: About Anime Boston
+title: Convention History
 ---
-# About Anime Boston
+# Convention History
 
-Anime Boston is a three-day convention held annually in Boston, Massachusetts, USA under the supervision of the New England Anime Society. Our focus is to celebrate and promote Japanese animation, comics, and pop-culture.
-
-This event has been a cornerstone of the North East Anime Convention circuit since our inaugural event in April, 2003. Following unprecedented growth, we quickly outgrew the space in the Boston Park Plaza Hotel and moved to the Hynes Convention Center in 2005. The Hynes Convention Center and Sheraton Boston have allowed us to grow in ways we could not have imagined since the idea was first conceived.
-
-While the main focus on Anime Boston has always been Japanese animation and comics, we have expanded to include other aspects of Japanese pop-culture: J-Pop, J-Rock, and live-action Japanese media. We have also delved into Japanese history and traditional culture, thus encouraging people to develop a more well-rounded perspective.
-
-Over 350 staff members work to make this convention possible. On top of that, everyone is a volunteer; no one gets paid for what they do. We all participate because we are also fans (and might be a little crazy). We work year-round to prepare for each convention; in fact, planning for the next year begins before the previous one is even over!  Our staff is incredibly diverse and comes from all walks of life and experiences. The hard work and dedication of our staff members ensures that we put on the best show possible.
-
-Of course, Anime Boston would not be the success it has become without the support of its members and fans. Starting with a staggering 4,000 members in 2003 (an incredible feat for a brand new convention), by 2012 we had expanded to welcome more than 22,000 people over the weekend. The majority of our panels are actually presented by members who just want to share their passions with the larger community. Having members organize some of the programming for Anime Boston gives everyone a sense of community and belonging at our event.
-
-We, the staff of Anime Boston and the New England Anime Society, thank you for taking interest in our convention. Your excitement helps energize everyone and spreads the word to new people. We hope to see you there!
-
----
-
-## Convention History
 Below you will find information and stats of each previous Anime Boston convention, from 2003 onward.
 
-### Anime Boston 2019:
+## Anime Boston 2019:
 April 19-April 21, 2019
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel / Hilton Boston Back Bay Hotel
@@ -35,7 +20,7 @@ April 19-April 21, 2019
 * **Anime Music Video Contest entries:** 200 entries, (35 finalists)
 * **Charity Contributions:** $25,264 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2018:
+## Anime Boston 2018:
 March 30-April 1, 2018
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel / Hilton Boston Back Bay Hotel
@@ -50,7 +35,7 @@ March 30-April 1, 2018
 * **Anime Music Video Contest entries:** 206 entries, (35 finalists)
 * **Charity Auction results:** $23,222 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2017:
+## Anime Boston 2017:
 March 31-April 2, 2017
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel / Hilton Boston Back Bay Hotel
@@ -65,7 +50,7 @@ March 31-April 2, 2017
 * **Anime Music Video Contest entries:** 208 entries, (35 finalists)
 * **Charity Auction results:** $27,001.29 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2016:
+## Anime Boston 2016:
 March 25-27, 2016
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel / Hilton Boston Back Bay Hotel
@@ -80,7 +65,7 @@ March 25-27, 2016
 * **Anime Music Video Contest entries:** 202 entries, (35 finalists)
 * **Charity Auction results:** $22,243 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2015:
+## Anime Boston 2015:
 April 3-5, 2015
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -95,7 +80,7 @@ April 3-5, 2015
 * **Anime Music Video Contest entries:** 170 entries (30 finalists)
 * **Charity Auction results:** $24,331.94 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2014:
+## Anime Boston 2014:
 March 21-23, 2014
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -110,7 +95,7 @@ March 21-23, 2014
 * **Anime Music Video Contest entries:** 126 entries (30 finalists)
 * **Charity Auction results:** $18,310.55 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2013:
+## Anime Boston 2013:
 May 24-26, 2013
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -125,7 +110,7 @@ May 24-26, 2013
 * **Anime Music Video Contest entries:** 172 entries (30 finalists)
 * **Charity Auction results:** $14,671.32 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2012:
+## Anime Boston 2012:
 April 6-8, 2012
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -140,7 +125,7 @@ April 6-8, 2012
 * **Anime Music Video Contest entries:** 176 entries (30 finalists)
 * **Charity Auction results:** $15,106 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2011:
+## Anime Boston 2011:
 April 22-24, 2011
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -155,7 +140,7 @@ April 22-24, 2011
 * **Anime Music Video Contest entries:** 105 entries (30 finalists)
 * **Charity Auction results:** $14,076.70 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2010:
+## Anime Boston 2010:
 April 2-4, 2010
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -169,7 +154,7 @@ April 2-4, 2010
 * **Anime Music Video Contest entries:** 105 entries (30 finalists)
 * **Charity Auction results:** $8,783.68 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2009:
+## Anime Boston 2009:
 May 22-24, 2009
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -184,7 +169,7 @@ May 22-24, 2009
 * **Anime Music Video Contest entries:** 124 entries (30 finalists)
 * **Charity Auction results:** $10,864 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2008:
+## Anime Boston 2008:
 March 21-23, 2008
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center
@@ -199,7 +184,7 @@ March 21-23, 2008
 * **Anime Music Video Contest entries:** 132 entries (30 finalists)
 * **Charity Auction results:** $4,400.06 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2007:
+## Anime Boston 2007:
 April 20-22, 2007
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -215,7 +200,7 @@ April 20-22, 2007
 * **Anime Music Video Contest entries:** 78 entries (30 finalists)
 * **Charity Auction results:** $9,274 raised for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2006:
+## Anime Boston 2006:
 May 26-28, 2006
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -230,7 +215,7 @@ May 26-28, 2006
 * **Anime Music Video Contest entries:** 99 entries (30 finalists)
 * **Charity Auction results:** $10,000 raised through bids for the Central New England Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2005:
+## Anime Boston 2005:
 April 29-May 1, 2005
 
 * **Location:** John B. Hynes Veterans Memorial Convention Center / Sheraton Boston Hotel
@@ -246,7 +231,7 @@ April 29-May 1, 2005
 * **Anime Music Video Contest entries:** 89 anime music videos (30 finalists)
 * **Charity Auction results:** Over $3000 raised through bids for the Central Massachusetts Chapter of the National Multiple Sclerosis Society
 
-### Anime Boston 2004:
+## Anime Boston 2004:
 April 9-11, 2004
 
 * **Location:** Boston Park Plaza Hotel &amp; Towers / The Castle at Park Plaza
@@ -264,7 +249,7 @@ April 9-11, 2004
 * **Charity Auction results:** $1968 raised through bids for the Central Massachusetts Chapter of the National Multiple Sclerosis Society
 
 
-### Anime Boston 2003:
+## Anime Boston 2003:
 April 18-20, 2003
 
 * **Location:** Boston Park Plaza Hotel
