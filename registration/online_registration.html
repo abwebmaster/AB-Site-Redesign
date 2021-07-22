@@ -1,6 +1,8 @@
 ---
 title: Attend & Registration
 ---
+{% include registration/registration_menu.html %}
+
 <div class="registration-jumbotron jumbotron text-center clearfix">
   <h1>Online Registration is OPEN!!</h1>
   <p>
@@ -15,14 +17,4 @@ title: Attend & Registration
       <div class="registration-counter-update">Updated June 18, 2020</div>
     </div>
   </div>
-</div>
-
-<div class="row secondary-block-menu">
-  {% for information in site.data.information %}
-  <div class="col-12 col-lg-6 col-xl-4">
-    <a class="btn btn-secondary" href="{{ information.link }}">
-      {{ information.title }}
-    </a>
-  </div>
-  {% endfor %}
 </div>

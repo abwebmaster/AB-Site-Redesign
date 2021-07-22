@@ -1,6 +1,8 @@
 ---
 title: Registration FAQ
 ---
+{% include registration/registration_menu.html %}
+
 # Registration FAQ
 {:.no_toc}
 

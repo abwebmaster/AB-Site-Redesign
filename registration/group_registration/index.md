@@ -2,7 +2,7 @@
 title: Group Registration
 ---
 <div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/info/group_registration/group_registration_form.html" class="nav-link">
+  <a href="/AB-Site-Redesign/registration/group_registration/group_registration_form.html" class="nav-link">
     Apply for Group Registration
   </a>
 </div>

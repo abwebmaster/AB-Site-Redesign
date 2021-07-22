@@ -1,6 +1,8 @@
 ---
 title: Registration Events
 ---
+{% include registration/registration_menu.html %}
+
 # Registration Events
 
 Anime Boston will be at local stores and conventions in and around the Boston area where you can come and register for Anime Boston. Please check below for upcoming events!\

@@ -1,6 +1,8 @@
 ---
 title: Registration Policy
 ---
+{% include registration/registration_menu.html %}
+
 # Registration Policy
 
 These policies apply to all members, whether they pre-register or purchase a membership at the door.
