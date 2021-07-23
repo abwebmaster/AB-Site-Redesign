@@ -1,17 +1,7 @@
 ---
 title: Guests
 ---
-<div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/activities/autograph_schedule.html" class="nav-link">
-    Autograph Schedule
-  </a>
-  <a href="/AB-Site-Redesign/policy/convention_policy.html#autograph-policy" class="nav-link">
-    Autograph Policy
-  </a>
-  <a href="/AB-Site-Redesign/activities/guest_faq.html" class="nav-link">
-    Frequently Asked Questions
-  </a>
-</div>
+{% include guest/guest_menu.html %}
 
 <h1>Guests</h1>
 
@@ -33,7 +23,7 @@ title: Guests
   <div class="row">
     {% for guest in guest_section.guests %}
     <div class="col-12 col-lg-4 col-xl-3">
-      <a href="/AB-Site-Redesign/activities/guest_details.html">
+      <a href="/AB-Site-Redesign/guest/guest_details.html">
         <img class="img-fluid" src="https://via.placeholder.com/345x200">
         <span class="btn btn-primary menu-button-link">
           {{ guest.name }}<br>

@@ -1,17 +1,7 @@
 ---
 title: Guests FAQ
 ---
-<div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/activities/autograph_schedule.html" class="nav-link">
-    Autograph Schedule
-  </a>
-  <a href="/AB-Site-Redesign/policy/convention_policy.html#autograph-policy" class="nav-link">
-    Autograph Policy
-  </a>
-  <a href="/AB-Site-Redesign/activities/guest_faq.html" class="nav-link">
-    Frequently Asked Questions
-  </a>
-</div>
+{% include guest/guest_menu.html %}
 
 # Guests FAQ
 {:.no_toc}
