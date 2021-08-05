@@ -2,17 +2,41 @@
   link: /AB-Site-Redesign/activities/exhibitors.html
 - title: Artists Alley
   link: /AB-Site-Redesign/activities/artist_alley.html
+- title: Programming
+  link: /AB-Site-Redesign/activities/programming.html
 - title: Guests
   link: /AB-Site-Redesign/activities/guests.html
-- title: Cosplay
-  link: /AB-Site-Redesign/activities/cosplay/cosplay_menu.html
+- title: Guest Autographs
+  link: /AB-Site-Redesign/activities/guest_autographs.html
+- title: Workshops
+  link: /AB-Site-Redesign/activities/workshops.html
+- title: Cosplay Games
+  link: /AB-Site-Redesign/activities/cosplay/cosplay_games.html
+- title: Masquerade
+  link: /AB-Site-Redesign/activities/masquerade.html
+- title: Photo Suite
+  link: /AB-Site-Redesign/activities/photo_suite.html
+- title: AMV Contest
+  link: /AB-Site-Redesign/activities/amv.html
+- title: Concerts
+  link: /AB-Site-Redesign/activities/concerts.html
+- title: Dances
+  link: /AB-Site-Redesign/activities/dances.html
 - title: Video Games
   link: /AB-Site-Redesign/activities/video_games.html
-- title: Charity Auction
+- title: Charity Events
   link: /AB-Site-Redesign/activities/charity.html
 - title: Live Gaming
   link: /AB-Site-Redesign/activities/live_gaming.html
+- title: Game Shows
+  link: /AB-Site-Redesign/activities/game_shows.html
+- title: Karaoke
+  link: /AB-Site-Redesign/activities/karaoke.html
 - title: Manga Library
   link: /AB-Site-Redesign/activities/manga_library.html
+- title: Maid Cafe
+  link: /AB-Site-Redesign/activities/maid_cafe.html
 - title: Swap Meet
   link: /AB-Site-Redesign/activities/swap_meet.html
+- title: Other Activities
+  link: /AB-Site-Redesign/activities/other.html

@@ -1,0 +1,17 @@
+---
+title: Activities
+---
+<h1>Activities</h1>
+
+<div class="row">
+  {% for activity in site.data.activities %}
+  <div class="col-12 col-lg-4 col-xl-3">
+    <a href="{{ activity.link }}">
+      <img class="img-fluid" src="https://via.placeholder.com/345x200">
+      <span class="btn btn-primary menu-button-link">
+        {{ activity.title }}
+      </span>
+    </a>
+  </div>
+  {% endfor %}
+</div>

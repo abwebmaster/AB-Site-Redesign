@@ -1,0 +1,17 @@
+---
+title: Sign Ups
+---
+<h1>Sign Ups</h1>
+
+<div class="row">
+  {% for application in site.data.applications %}
+  <div class="col-12 col-lg-4 col-xl-3">
+    <a href="{{ application.link }}">
+      <img class="img-fluid" src="https://via.placeholder.com/345x200">
+      <span class="btn btn-primary menu-button-link">
+        {{ application.title }}
+      </span>
+    </a>
+  </div>
+  {% endfor %}
+</div>
