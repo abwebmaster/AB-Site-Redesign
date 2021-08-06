@@ -1,4 +1,6 @@
 /_build/AB-Site-Redesign
+/_build/.jekyll-cache
+/_build/_site
 /node_modules
 /.jekyll-cache
 npm-debug.log
