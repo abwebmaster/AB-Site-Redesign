@@ -3,13 +3,13 @@
 - title: Artists Alley
   link: /AB-Site-Redesign/activities/artist_alley.html
 - title: Programming
-  link: /AB-Site-Redesign/activities/programming.html
+  link: /AB-Site-Redesign/information/programming_schedule.html
 - title: Guests
-  link: /AB-Site-Redesign/activities/guests.html
+  link: /AB-Site-Redesign/guest/guests.html
 - title: Guest Autographs
-  link: /AB-Site-Redesign/activities/guest_autographs.html
+  link: /AB-Site-Redesign/guest/autograph_schedule.html
 - title: Workshops
-  link: /AB-Site-Redesign/activities/workshops.html
+  link: "#"
 - title: Cosplay Games
   link: /AB-Site-Redesign/activities/cosplay/cosplay_games.html
 - title: Masquerade
@@ -17,11 +17,11 @@
 - title: Photo Suite
   link: /AB-Site-Redesign/activities/photo_suite.html
 - title: AMV Contest
-  link: /AB-Site-Redesign/activities/amv.html
+  link: /AB-Site-Redesign/activities/amv/amv_contest.html
 - title: Concerts
-  link: /AB-Site-Redesign/activities/concerts.html
+  link: "#"
 - title: Dances
-  link: /AB-Site-Redesign/activities/dances.html
+  link: "#"
 - title: Video Games
   link: /AB-Site-Redesign/activities/video_games.html
 - title: Charity Events
@@ -39,4 +39,4 @@
 - title: Swap Meet
   link: /AB-Site-Redesign/activities/swap_meet.html
 - title: Other Activities
-  link: /AB-Site-Redesign/activities/other.html
+  link: "#"

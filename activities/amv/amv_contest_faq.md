@@ -2,10 +2,13 @@
 title: AMV Contest FAQ
 ---
 <div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/applications/amv/amv_form.html" class="nav-link">
+  <a href="/AB-Site-Redesign/activities/amv/amv_contest.html" class="nav-link">
+    AMV Contest
+  </a>
+  <a href="#" class="nav-link">
     Enter AMV Contest
   </a>
-  <a href="/AB-Site-Redesign/applications/amv/faq.html" class="nav-link">
+  <a href="/AB-Site-Redesign/activities/amv/amv_contest_faq.html" class="nav-link">
     Frequently Asked Questions
   </a>
 </div>

@@ -2,7 +2,7 @@
 title: Masquerade
 ---
 <div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/participation/cosplay/masquerade.html" class="nav-link">
+  <a href="#" class="nav-link">
     Apply to be in the Masquerade
   </a>
 </div>
