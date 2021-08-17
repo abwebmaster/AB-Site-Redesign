@@ -1,6 +1,8 @@
 ---
 title: How to Participate in a Cosplay Game
 ---
+{% include activities/cosplay_games_menu.html %}
+
 # How to Participate in a Cosplay Game
 
 <img src="https://www.animeboston.com/images/cosplay/cosplay_games/applygames.png" class="img-fluid">

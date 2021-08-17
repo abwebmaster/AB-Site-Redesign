@@ -1,13 +1,9 @@
 ---
 title: Cosplay Gatherings
 ---
-<div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/activities/cosplay/photoshoots.html" class="nav-link">
-    Photoshoot Schedule
-  </a>
-</div>
+{% include activities/cosplay_menu.html %}
 
-# Cosplay Gatherings
+# Cosplay Gatherings &amp; Meetups
 
 You've spent a million hours on your cosplay. Now, you’re ready to show it off and meet other fans. ... But how? No worries - we've got you covered!
 

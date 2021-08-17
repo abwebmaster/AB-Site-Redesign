@@ -1,6 +1,8 @@
 ---
 title: Cosplay FAQ
 ---
+{% include activities/cosplay_menu.html %}
+
 # Cosplay FAQ
 {:.no_toc}
 

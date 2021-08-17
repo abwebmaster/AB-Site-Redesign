@@ -1,11 +1,7 @@
 ---
 title: Cosplay Games
 ---
-<div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/activities/cosplay/how_to_apply.html" class="nav-link">
-    How to Participate in a Cosplay Game
-  </a>
-</div>
+{% include activities/cosplay_games_menu.html %}
 
 # Cosplay Games
 {:.no_toc}

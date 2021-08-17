@@ -1,6 +1,8 @@
 ---
 title: Cosplay Repair
 ---
+{% include activities/cosplay_menu.html %}
+
 # Cosplay Repair
 
 Not sure how to fix something, or no good with a needle and thread? No problem! Our staff are experienced in the art of quick costume fixes, and we’re here to give advice or lend a hand as needed.

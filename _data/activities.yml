@@ -10,8 +10,10 @@
   link: /AB-Site-Redesign/guest/autograph_schedule.html
 - title: Workshops
   link: "#"
+- title: Cosplay
+  link: /AB-Site-Redesign/activities/cosplay/cosplay_faq.html
 - title: Cosplay Games
-  link: /AB-Site-Redesign/activities/cosplay/cosplay_games.html
+  link: /AB-Site-Redesign/activities/cosplay_games/cosplay_games.html
 - title: Masquerade
   link: /AB-Site-Redesign/activities/masquerade.html
 - title: Photo Suite
@@ -38,5 +40,7 @@
   link: /AB-Site-Redesign/activities/maid_cafe.html
 - title: Swap Meet
   link: /AB-Site-Redesign/activities/swap_meet.html
-- title: Other Activities
+- title: Cosplot
+  link: /AB-Site-Redesign/activities/cosplot.html
+- title: Other Activitie
   link: "#"
