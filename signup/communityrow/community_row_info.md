@@ -2,7 +2,7 @@
 title: Community Row
 ---
 <div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/applications/communityrow/community_row_form.html" class="nav-link">
+  <a href="/AB-Site-Redesign/signup/communityrow/community_row_form.html" class="nav-link">
     Apply for Community Row
   </a>
 </div>
