@@ -1,6 +1,8 @@
 # Anime Boston Site Redesign
 This project is a redesign and a rearrangement of the existing Anime Boston website. This site will be only the front-end content, no back-end functionality or database or dynamic content. It'll be hosted on GitHub Pages to provide an easy way for stakeholders to view it as work progresses and provide feedback.
 
+`jekyll serve -s /_build`
+
 ## Issues with the Current Site
 1. Too many top-level navigation items. The main navigation sidebar has around 70+ links in it (if you include the Administrator section). That is way too many and has resulted in a cluttered navigation where the most important content can get buried.
 2. Too many "policy" and "faq" style pages. A lot of the information can be consolidated into fewer pages.
