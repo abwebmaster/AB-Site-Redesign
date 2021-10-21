@@ -2,7 +2,7 @@
 title: Panel Application
 ---
 <div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/applications/panels/panel_form.html" class="nav-link">
+  <a href="/AB-Site-Redesign/signup/panels/panel_form.html" class="nav-link">
     Apply to Run a Panel
   </a>
 </div>
@@ -21,7 +21,7 @@ Here are the most frequently asked questions for panels and programming here at 
 A panel can be a presentation, discussion, workshop, or game show about subjects on Japan, anime, anime-based video games, video games originating from Japan, and all other subjects covered under the["About Us” section of the Anime Boston website](/coninfo/about). Panels can be run by fellow attendees, guests, industry, or staff members. Panels may cater to a wide variety of audiences of all different ages. Please note that all panels catering to the 18+ age group will be scheduled during the evening (usually after 8 p.m.) and will be identified on the schedule as a panel that contains 18+ content.
 
 ## I am interested in running a panel, what do I need to do?
-To submit a panel at Anime Boston, you need to fill out the [application](/AB-Site-Redesign/applications/panels/panel_submission.html) form on the website. Applications open on October 5, 2019 and close on January 31, 2020.
+To submit a panel at Anime Boston, you need to fill out the [application](/AB-Site-Redesign/signup/panels/panel_form.html) form on the website. Applications open on October 5, 2019 and close on January 31, 2020.
 
 ## What panels does Anime Boston look for?
 Anime Boston primarily accepts panels that include but are not limited to providing information/education about Japan, Japanese culture, anime, manga, cosplay, video games, art history, and all other subjects that are covered under the ["About Us" section of the Anime Boston website](/AB-Site-Redesign/about/about.html). Panels that provide information on social issues that pertain to the current culture of the anime convention community may also be considered.
