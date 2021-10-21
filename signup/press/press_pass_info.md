@@ -2,7 +2,7 @@
 title: Press Pass
 ---
 <div class="nav menu-secondary">
-  <a href="/AB-Site-Redesign/applications/press/press_pass_form.html" class="nav-link">
+  <a href="/AB-Site-Redesign/signup/press/press_pass_form.html" class="nav-link">
     Apply for a Press Pass
   </a>
 </div>
@@ -42,7 +42,7 @@ Criteria used for reviewing press pass applicants includes, but is not limited t
 
 Members of major media outlets (TV station, newspaper, magazine, radio, etc.) may contact our <a href="/coninfo/contact/267">Press Department</a> to request press passes, even after the application deadline has passed.
 
-All other representatives must submit a [Press Pass Application](/AB-Site-Redesign/applications/press/press_pass_form.html) before the cutoff date of Sunday, February 2, 2020. Applications will be reviewed after the cutoff date and responses will be given by February 29, 2020.
+All other representatives must submit a [Press Pass Application](/AB-Site-Redesign/signup/press/press_pass_form.html) before the cutoff date of Sunday, February 2, 2020. Applications will be reviewed after the cutoff date and responses will be given by February 29, 2020.
 
 Anime Boston reserves the right to refuse or limit press passes to anyone or any organization for any reason. Press passes are not transferable.
 

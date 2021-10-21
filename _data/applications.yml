@@ -2,6 +2,8 @@
   link: "/AB-Site-Redesign/signup/exhibitors/exhibitors_info.html"
 - title: Artists Alley
   link: "/AB-Site-Redesign/signup/artists/artists_alley_info.html"
+- title: Art Show
+  link: "/AB-Site-Redesign/signup/artshow/art_show_info.html"
 - title: Community Row
   link: "/AB-Site-Redesign/signup/communityrow/community_row_info.html"
 - title: AMV Contest
@@ -14,12 +16,10 @@
   link: "#"
 - title: Panels
   link: "/AB-Site-Redesign/signup/panels/faq.html"
-- title: Karaoke
-  link: "#"
 - title: Press
-  link: "#"
+  link: "/AB-Site-Redesign/signup/press/press_pass_info.html"
 - title: Blood Drive
-  link: "#"
+  link: "/AB-Site-Redesign/signup/blood_drive.html"
 - title: Staff
   link: "#"
 - title: Support Squad
