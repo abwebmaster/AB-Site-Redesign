@@ -1,18 +1,18 @@
 ---
 title: Cosplay Events
 ---
-{% include participation/cosplay_events_menu.html %}
+{% include cosplayhq/cosplayhq_menu.html %}
 
 <div class="row">
   <div class="col-12 col-lg-4 col-xl-3">
-    <a href="/AB-Site-Redesign/applications/cosplay/cosplay_gatherings.html">
+    <a href="/AB-Site-Redesign/signup/cosplayhq/cosplay_gatherings.html">
       <img class="img-fluid" src="https://via.placeholder.com/345x200">
       <span class="btn btn-primary menu-button-link">
         Cosplay Gatherings
       </span>
     </a>
   </div>
-  
+
   {% for event in site.data.cosplay_events %}
   <div class="col-12 col-lg-4 col-xl-3">
     <a href="{{ event.link }}">

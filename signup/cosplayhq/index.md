@@ -1,7 +1,7 @@
 ---
-title: Cosplay Events Help
+title: Cosplay HQ
 ---
-{% include participation/cosplay_events_menu.html %}
+{% include cosplayhq/cosplayhq_menu.html %}
 
 Welcome, [Cosplayer] to Cosplay HQ. The Cosplay HQ is our new system to manage your applications to different Cosplay Events at Anime Boston.
 
