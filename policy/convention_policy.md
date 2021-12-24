@@ -54,7 +54,7 @@ http://library.amlegal.com/nxt/gateway.dll/Massachusetts/boston/chapterxviprohib
 
 ### Autograph Policy
 
-**How to obtain a free autograph pass**
+#### How to obtain a free autograph pass
 * Autograph passes will be given out starting at **8 a.m.** on Friday, Saturday, and Sunday in the Sheraton’s Constitution B.
 * Autograph passes are only valid for the day they are given out.
 * Pre-registered attendees who have not yet picked up their badge may pick up autograph passes if they bring a **printed** copy of their pre-registration confirmation email along with a photo ID.
@@ -67,7 +67,7 @@ http://library.amlegal.com/nxt/gateway.dll/Massachusetts/boston/chapterxviprohib
 * Lost passes cannot be replaced - **no exceptions!**
 * No passes will be given out in the autographs lines. Attendees without passes will be turned away at the session - **no exceptions!**
 
-**Autograph Session Rules**
+#### Autograph Session Rules
 * The free autograph sessions will be held in Hall B.
 * Attendees are not allowed to line up for an autograph session more than **30 minutes** before the scheduled start time.
 * Pass holders must arrive before the scheduled autograph session start time or risk losing their ability to obtain an autograph during that session.
@@ -80,10 +80,10 @@ http://library.amlegal.com/nxt/gateway.dll/Massachusetts/boston/chapterxviprohib
 * Attendees must follow all staff instructions.
 * Anime Boston reserves the right to cap or end the line to keep events (and guests) on schedule.
 
-**Paid Autograph Sessions**
+#### Paid Autograph Sessions
 * Some guests may choose to sign autographs at a table in Hall B and/or the Dealer’s Room for a small per-person fee. This service is offered purely at the discretion of the guest and is not organized by Anime Boston staff. We at Anime Boston will do our best to help make this experience positive for our attendees, but please understand that we do not have control over things such as session timing and costs.
 
-**Exhibit Hall Autograph Sessions**
+#### Exhibit Hall Autograph Sessions
 Some guests may choose to sign autographs at a table in the Exhibit Hall for a small per-person fee. This is purely at the discretion of the guest and is not organized by Anime Boston staff. We at Anime Boston will do our best to help make this experience positive for our attendees, but please understand that we do not have control over things such as session timing and costs.  
 * Attendees participating in disruptive or rude behavior may be asked to leave the autograph area.
 * Attendees must follow all staff instructions.
