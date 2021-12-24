@@ -1,5 +1,6 @@
 ---
 title: Travel Information
+layout: faq
 ---
 # Travel Information
 {:.no_toc}

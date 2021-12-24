@@ -1,5 +1,6 @@
 ---
 title: Convention Policy
+layout: faq
 ---
 # Convention Policy
 {:.no_toc}

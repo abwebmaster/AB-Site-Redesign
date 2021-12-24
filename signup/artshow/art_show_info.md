@@ -1,5 +1,6 @@
 ---
 title: Art Show
+layout: faq
 ---
 <div class="nav menu-secondary">
   <a href="/AB-Site-Redesign/signup/artshow/art_show_form.html" class="nav-link">

@@ -1,5 +1,6 @@
 ---
 title: Cosplay Photo Suite
+layout: faq
 ---
 # Cosplay Photo Suite
 {:.no_toc}

@@ -1,5 +1,6 @@
 ---
 title: Registration FAQ
+layout: faq
 ---
 {% include registration/registration_menu.html %}
 

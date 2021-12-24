@@ -1,5 +1,6 @@
 ---
 title: Guests FAQ
+layout: faq
 ---
 {% include guest/guest_menu.html %}
 

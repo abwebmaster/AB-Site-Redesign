@@ -1,5 +1,6 @@
 ---
 title: Convention FAQ
+layout: faq
 ---
 # Convention Frequently Asked Questions
 {:.no_toc}

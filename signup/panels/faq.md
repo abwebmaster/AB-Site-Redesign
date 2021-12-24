@@ -1,5 +1,6 @@
 ---
 title: Panel Application
+layout: faq
 ---
 <div class="nav menu-secondary">
   <a href="/AB-Site-Redesign/signup/panels/panel_form.html" class="nav-link">

@@ -1,5 +1,6 @@
 ---
 title: AMV Contest FAQ
+layout: faq
 ---
 <div class="nav menu-secondary">
   <a href="/AB-Site-Redesign/activities/amv/amv_contest.html" class="nav-link">

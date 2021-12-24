@@ -1,5 +1,6 @@
 ---
 title: Support Squad FAQ
+layout: faq
 ---
 {% include volunteer/support_squad_menu.html %}
 

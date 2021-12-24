@@ -1,5 +1,6 @@
 ---
 title: Cosplay FAQ
+layout: faq
 ---
 {% include activities/cosplay_menu.html %}
 

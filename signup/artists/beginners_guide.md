@@ -1,5 +1,6 @@
 ---
 title: Artists Alley Beginners Guide
+layout: faq
 ---
 {% include exhibitors/artists_alley_menu.html %}
 

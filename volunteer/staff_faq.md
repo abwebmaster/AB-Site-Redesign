@@ -1,5 +1,6 @@
 ---
 title: Staff FAQ
+layout: faq
 ---
 {% include volunteer/staff_menu.html %}
 

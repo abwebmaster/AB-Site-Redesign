@@ -1,5 +1,6 @@
 ---
 title: Staff Guidelines
+layout: faq
 ---
 {% include volunteer/staff_menu.html %}
 
