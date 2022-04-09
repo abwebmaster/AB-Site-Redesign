@@ -17,7 +17,7 @@ Cosplay Games is your one-stop shop for unscripted cosplay performance. It’s n
 * TOC
 {:toc}
 
-## Death Match
+### Death Match
 <img src="https://www.animeboston.com/images/cosplay/cosplay_games/deathmatch.png" class="img-fluid">
 
 Thirty-two participants will enter, only one reigns supreme:
@@ -28,7 +28,7 @@ Notes on applying:
 * Solo or group applications (up to four members total) are accepted.
 * Applicants may be matched with characters from the same series to create a new team for the event.
 
-## After Dark Dating Game
+### After Dark Dating Game
 <img src="https://www.animeboston.com/images/cosplay/cosplay_games/datinggame.png" class="img-fluid">
 
 Do you like wacky pairings with no canonical basis? This classic is your chance to see your favorite ship set sail as we kick off our After Dark (**18+**).
@@ -40,7 +40,7 @@ Notes on applying:
 * **All applicants must be 18 or older.**
 * If selected as a bachelor or bachelorette for this event, preparation before the convention will be required, which may include attending rehearsals/meetings.
 
-## Lip Sync Battle
+### Lip Sync Battle
 Come cheer on your favorite anime characters as 16 contestants battle to become the ultimate Anime Boston idol. This hit is a highlight you don’t want to miss!
 
 Contestants (usually individual characters, but groups are sometimes accepted) compete with each other in lip sync performances until a single winner is chosen by the cheers of the audience. Pop, rock, Broadway, comedic &mdash; all music genres are accepted. Come for the cosplay, stay for the jamming tunes!
@@ -49,7 +49,7 @@ Notes on applying:
 * Solo or duets are accepted.
 * Applicants will be asked for four songs they would like to perform. Songs will be cut down to between 60 and 90 seconds for the event.
 
-## Improv Battle
+### Improv Battle
 Our newest game returns for more cosplay fun that pits your favorite characters against each other... and the audience?!
 
 Pre-selected teams of characters will face off in a series of improv games designed to have you rolling on the floor. But these cosplayers aren't going it alone &mdash; members will be pulled from the audience to help (or hinder) the teams in these challenges.  Who will win? Come find out!
@@ -58,12 +58,12 @@ Notes on applying:
 * Improv, theater, or other experience in roleplay required.
 * If selected, participants will be asked to attend pre-convention meetings and a rehearsal at the convention.
 
-## Shenanigans
+### Shenanigans
 What happens in Shenanigans, stays in Shenanigans. All we know is it involves cosplay. And possibly a chicken.
 
 You definitely don’t want to miss this midnight event (**18+**) after the Masquerade!
 
-## Chess
+### Chess
 <img src="https://www.animeboston.com/images/cosplay/cosplay_games/chess.png" class="img-fluid">
 
 No Anime Boston is complete without the action, drama, and brutal battle of this larger-than-life game of chess!
@@ -74,11 +74,9 @@ Notes on applying:
 * Solo or group applications (up to four members total) are accepted.
 * If selected, participants will be asked to attend a rehearsal at the convention on Saturday morning.
 
-## Other Cosplay Games
+### Other Cosplay Games
 The fun doesn't stop with our events. There are opportunities to play around in costume all weekend:
 
 * **Scavenger Hunt** - You don’t need to be in cosplay to take on our scavenger hunt that will have you searching the convention for cosplay, anime, manga, and video game items. If you complete our standard hunt, come back to give our master level hunt a try! Event runs from Friday morning through Sunday afternoon.
-
 * **Trading Card Game \*NEW\*** - Are you a Cosplay Games superfan? Billionaire Chess Coordinators aren't the only ones with trading cards these days: find the new Anime Boston Cosplay Games Trading Cards at Cosplay Games events! Can you collect 'em all?
-
 * **Cosplot** -  Something is going on at Anime Boston! Exactly what, we’re not sure. Catch all the details at the Cosplay events. To learn more see our [Cosplot History](/AB-Site-Redesign/activities/cosplay/cosplot.html).

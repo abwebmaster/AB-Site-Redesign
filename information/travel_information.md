@@ -71,7 +71,7 @@ There are several trains that you can take into Boston all the way from Amtrak t
 
 <a href="https://www.amtrak.com/find-train-bus-stations-train-routes" target="\_blank">Amtrak</a> provides direct service to Boston's South Station. All Amtrak trains stop at the Back Bay Station, some commuter rail trains also stop at Back Bay Station. Get off the train here, exit the station and walk across the street to the Copley Place/Convention Center Complex entrance. You will need to walk through Copley Place, across the skywalk to the Prudential Center to get to the Hynes and Sheraton.
 
-**From South Station to the convention:**  
+### From South Station to the convention
 1. Go downstairs near the front entrance to South Station and purchase a Charlie Ticket from the Vending Machines ($2.75 per ride) or get a Charlie Card and add money to the card (Charlie Card is Free - $2.25 per ride)
 2. Take an inbound Red Line train to Park Street.
 3. Go upstairs and change to any westbound Green Line trolley. (If you see trolleys marked "Lechmere", you're on the wrong side.)
@@ -80,7 +80,7 @@ There are several trains that you can take into Boston all the way from Amtrak t
 
 If you are taking <a href="https://www.amtrak.com/downeaster-train" target="\_blank">The Downeaster</a> from Maine or coastal New Hampshire, you will arrive at North Station.
 
-**From North Station to the convention:**  
+### From North Station to the convention
 1. Follow the signs to the Green Line trolley and purchase a Charlie Ticket from the Vending Machines ($2.75 per ride) or get a Charlie Card and add money to the card (Charlie Card is Free - $2.25 per ride).
 2. Get on any inbound trolley.
 3. If you take a "B", "C", or "D" trolley, get off at the Hynes/ICA stop. When you exit the station, go left on Mass. Ave and left onto Boylston Street. The Hynes Convention Center will be on your right.
@@ -92,7 +92,7 @@ Speaking of which, if you are already in the city and want to get to the Convent
 
 **Tourist Note**: Boston's subway system is known as "The T". It's short for "MBTA" which is short for "Massachusetts Bay Transit Authority". All T stations, stops, and vehicles are marked with a black "T" in a white circle. You can ride it between almost any two stops with a Charlie Ticket from a vending machine for $2.65 or you can get a Charlie Card for free at most major "T" stations and add value to the card.
 
-**Taking the T to the convention:**  
+### Taking the T to the convention
 There are three T stations near the Hynes Convention Center complex.
 1. Green line "B", "C", or "D" trolley to the Hynes/ICA stop. When you exit the station, go left on Mass. Ave and left onto Boylston Street. The Hynes Convention Center will be on your right.
 2. Green line "E" trolley to the Prudential Center stop. Go up the escalators into the Prudential Center Mall. Follow the signs towards the Hynes and Sheraton.
@@ -107,7 +107,7 @@ Of course you may prefer to get to Anime Boston by Bus.
 
 Bus lines (such as Greyhound, Peter Pan, Vermont Trailways) provide service to Boston's South Station.
 
-**From South Station to the convention:**  
+### From South Station to the convention
 1. Go downstairs near the front entrance to the South Station train station and purchase a Charlie Ticket from the Vending Machines ($2.65 per ride) or get a Charlie Card and add money to the card (Charlie Card is Free - $2.10 per ride).
 2. Take an inbound Red Line train to Park Street.
 3. Go upstairs and change to any Green Line trolley (except "Lechmere").
@@ -119,14 +119,14 @@ Subway maps are available on the <a href="http://www.mbta.com/" target="\_blank"
 ## Driving to Anime Boston
 So you're brave enough to face Boston traffic? We admire your courage. We recommend that you also review [parking options](#5) before heading into the city. Driving to Anime Boston.
 
-**Driving to the convention from the west:**  
+### Driving to the convention from the west
 1. Take Exit 22 (Prudential/Copley Place).
 2. Stay left and take ramp toward Prudential Center, as you exit onto Huntington Avenue, staying right while on Huntington Avenue.
 3. At the next set of lights turn right onto Belvidere Street then take right onto Dalton St.
 4. At the first set of lights on Dalton Street take a right onto Boylston St.
 5. The Hynes Convention Center's main entrance and driveway will be immediately on the right. Parking is **not** allowed in the front driveway.
 
-**Driving to the convention from the north:**  
+### Driving to the convention from the north
 1. Follow Rte. 93 South staying to the far right as you get closer to Boston.
 2. Take Storrow Drive Exit 26. Follow Storrow Drive approximately 2 miles to the Fenway/Kenmore Exit (1st exit after Massachusetts Ave., on left).
 3. Stay left as you exit Storrow Drive going toward the Fenway.
@@ -134,7 +134,7 @@ So you're brave enough to face Boston traffic? We admire your courage. We recomm
 5. Go through 4 sets of lights on Boylston Street.
 6. The Hynes Convention Center's main entrance and driveway will be immediately on the right. Parking is **not** allowed in the front driveway.
 
-**Driving to the convention from the south:**  
+### Driving to the convention from the south
 1. Take Exit 18 MASS AVE/ROXBURY.
 2. At your third set of lights turn left onto Mass Ave Connector.
 3. Turn right onto Massachusetts Ave.
@@ -142,7 +142,7 @@ So you're brave enough to face Boston traffic? We admire your courage. We recomm
 5. Take a right onto Boylston St.
 6. The Hynes Convention Center's main entrance and driveway will be on the right. Parking is **not** allowed in the front driveway.
 
-**Driving to the convention from Logan Airport:**  
+### Driving to the convention from Logan Airport
 1. Merge onto I-90 West / Mass Pike / Ted Williams tunnel.
 2. Take exit 24 toward I-93.
 3. Merge onto I-93 South via exit on the left.
@@ -156,7 +156,7 @@ These directions may change without notice due to constant construction.
 
 For traffic reports every 10 minutes during the day, turn to <a href="http://www.wbz.com/" target="\_blank">WBZ 1030 AM</a>.
 
-**Approximate driving times:**  
+### Approximate driving times
 * Worcester, MA = 60 minutes
 * Providence, RI = 60 minutes
 * Manchester, NH = 60 minutes
@@ -190,26 +190,26 @@ New to SpotHero? [Click here](https://spothero.app.link/fQLt0B6k22) to download 
 
 Within a three-block walk of the Hynes Convention Center are numerous parking garages totaling over 4,400 spaces. There is limited meter parking available around the Hynes and adjacent streets.
 
-**Prudential Center Parking Garage**  
+### Prudential Center Parking Garage
 800 Boylston Street  
 617-236-3060  
 2,000 spaces  
 Parking Rates: <a href="http://www.prudentialcenter.com/parking/rates.php" target="\_blank">Varies</a>  
 Directions: The easiest entrance for Hynes conventioneers is either the Dalton Street Entrance or the Boylston Street Entrance. <a href="http://www.prudentialcenter.com/gettinghere/index.php" target="\_blank">This map</a> shows several of the parking garages in the area.</a>
 
-**Sheraton Boston Hotel Valet Parking**  
+### Sheraton Boston Hotel Valet Parking
 39 Dalton St  
 617-236-2000  
 200 Spaces (with 500 spaces available in the garage across the street) - $53 per night, includes in and out privileges, and 2pm retrieval on day of check out.  
 Directions: Take a right onto Dalton Street off of Boylston Street (immediately before the Convention Center); the Sheraton will be on the left. From Huntington Avenue going out of the city, take a right onto Belvidere Street (right after the Prudential Center), take next right onto Dalton Street; the Sheraton will be on the right. From Huntington going into the city, take a left onto Belvidere Street right before the Prudential Center.
 
-**Sheraton Boston Hotel Self Parking**  
+### Sheraton Boston Hotel Self Parking
 39 Dalton St  
 617-236-2000  
 3,000 Spaces $58 per night until 2:00pm  
 Directions: Take a right onto Dalton Street off of Boylston Street (immediately before the Convention Center); the Sheraton will be on the left. From Huntington Avenue going out of the city, take a right onto Belvidere Street (right after the Prudential Center), take next right onto Dalton Street; the Sheraton will be on the right. From Huntington going into the city, take a left onto Belvidere Street right before the Prudential Center.
 
-**Copley Place Parking Garage**  
+### Copley Place Parking Garage
 100 Huntington Avenue  
 (Corner of Huntington Avenue &amp; Dartmouth Street)  
 617-262-6600  
@@ -217,58 +217,64 @@ Directions: Take a right onto Dalton Street off of Boylston Street (immediately 
 Parking Rates: <a href="http://www.simon.com/convenient-parking-at-copley-place" target="\_blank">Varies</a>  
 Directions: Go straight down Boylston Street past the Convention Center, take a right onto Exeter Street; at light, garage will be directly across the street in front of you.
 
-**Boston Marriott Hotel Valet Parking**  
+### Boston Marriott Hotel Valet Parking
 100 Huntington Avenue  
 617-236-5800  
 225 spaces, $60 per night  
 Directions: Go straight down Boylston Street past the Convention Center, take a right onto Ring Road (right before Lord & Taylor), at light bear left and immediately take a right into the garage.
 
-**Westin Copley Place Parking Garage**  
+### Westin Copley Place Parking Garage
 10 Huntington Avenue  
 617-262-9600  
 VALET PARKING - 265 spaces, $61 per 8+ hours or overnight  
 Directions: Go straight down Boylston Street past the Convention Center, take a right onto Dartmouth Street, then a right onto Huntington Avenue. The entrance will be on your right.
 
-**Colonnade Hotel Parking Garage**  
+### Colonnade Hotel Parking Garage
 120 Huntington Avenue  
 617-424-7000  
 Approximately 160 spaces, $18 per hour, $48 per night  
 Directions: Go straight down Boylston Street past the Convention Center, take a right onto Ring Road (right before Lord & Taylor), at light take a right onto Huntington Avenue. Colonnade will be on the left.
 
-**Back Bay Hilton Hotel Parking Garage**  
+### Back Bay Hilton Hotel Parking Garage
 40 Dalton Street  
 617-236-1100  
 220 spaces, $43 per day, self parking  
 Directions: Take a right onto Dalton Street off of Boylston Street (immediately before the Convention Center); the Hilton will be on the right. From Huntington Avenue going out of the city, take a right onto Belvidere Street (right after the Prudential Center), take next right onto Dalton Street; the Hilton will be on the left. From Huntington Avenue going into the city, take a left onto Belvidere Street right before the Prudential Center.
 
-**Auditorium Parking Garage**  
+### Auditorium Parking Garage
 50 Dalton Street  
 617-247-8006  
 500 spaces, Maximum $38 per day  
 Directions: Take a right onto Dalton Street off of Boylston Street (immediately before the Convention Center); the garage will be on the right. From Huntington Avenue going out of the city, take a right onto Belvidere Street (right after the Prudential Center), take next right onto Dalton Street; the garage will be after the movie theater on the left. From Huntington Avenue going into the city, take a left onto Belvidere Street (right before the Prudential Center).
 
 <!--
-**Belvidere Street Lot**  
+### Belvidere Street Lot
 53 Belvidere Street  
 617-536-0910  
 60 spaces, Maximum $29 per day  
 Directions: From Huntington Avenue going into the city, take a left onto Belvidere Street (right before the Prudential Center). 53 Belvidere Street parking lot is conveniently opposite the Hilton Back Bay and Sheraton Boston Hotels. The <a href="http://www.celebrateboston.com/prudential-center.htm" target="\_blank">Prudential Center</a>, <a href="http://www.celebrateboston.com/hynes-convention-center.htm" target="\_blank">Hynes Convention Center</a>, and the <a href="http://www.celebrateboston.com/museum/mary-baker-eddy-library.htm" target="\_blank">Mary Baker Eddy Library</a> are a short walking distance away. Mass Ave and Boylston Street are also located not far away. The parking lot can be reached via Boylston Street (eastbound) to Dalton Street, or via Huntington Avenue to Belvidere Street.
 -->
 
-**MBTA Garages &amp; Lots**  
+### MBTA Garages &amp; Lots
 If you're on a tight budget, don't have too much to carry, and won't need your car until you leave, you might like to consider parking at one of the following MBTA garages.
 
-**Coming from the north: Alewife Garage** (located at the intersection of Route 2 and Route 16)  
+### Coming from the north: Alewife Garage
+Located at the intersection of Route 2 and Route 16
+
 It is located at the northwest end of the Red Line. With a transfer at Park Street to the Green Line Westbound, it's about a 45 minute subway ride to the Convention Center.
 * Flat rate: $7.00 per day, $8 overnight
 * Subway fare: $2.75 with a Charlie Ticket and $2.25 with a Charlie Card per person each way
 
-**Coming from the west: Riverside Lot** (located at the intersection of Route 2 and Route 16)  
+### Coming from the west: Riverside Lot
+Located at the intersection of Route 2 and Route 16
+
 It is located at the northwest end of the Red Line. With a transfer at Park Street to the Green Line Westbound, it's about a 45 minute subway ride to the Convention Center.
 * Flat rate: $6.00 per day. $13.00 overnight, $7.00 each additional day should you choose to leave your car for the whole weekend.
 * Subway fare: $2.75 with a Charlie Ticket and $2.25 with a Charlie Card per person each way
 
-**Coming from the south: Quincy Adams Garage** (Burgin Parkway at Centre Street, Quincy)  
+### Coming from the south: Quincy Adams Garage
+Burgin Parkway at Centre Street, Quincy
+
 This is the second to last southern stop on the Braintree branch of the Red Line. Travel inbound towards Alewife and a transfer at Park Street to the Green Line Westbound will take about 45 minutes.
 * Flat rate: $7.00 per day, $8 overnight
 * Subway fare: $2.75 with a Charlie Ticket and $2.25 with a Charlie Card per person each way

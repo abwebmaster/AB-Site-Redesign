@@ -62,19 +62,20 @@ Although all staff positions are unpaid, there are a number of benefits to being
 3. Each staff position may have its own unique responsibilities in addition to those listed above.
 
 ## Confidentiality
-Privacy and Non-Disclosure
+
+### Privacy and Non-Disclosure
 1. All information received by staff is considered private and is not to be disseminated to the public unless otherwise instructed to by your department head. This includes guest announcements, event announcements, and details of Anime Boston's convention planning process.
 2. Personal information of attendees, guests, vendors, or staff should not be shared with third parties at any time.
 
-Conflict and Disagreement
+### Conflict and Disagreement
 1. Conflicts with other staff members should not be expressed publicly, including over public online communication.
 2. If you have issues with another staff member or concerns regarding the convention, please talk to your Department Head, the Convention Chairman, or the Vice Chairman.
 
 ## Disciplinary Action
 If a staff member cannot abide by the above requirements and responsibilities, the following actions may be taken:
-1. First offense: Warning from direct supervisor.
-2. Second offense: Warning from Convention Chairman, Vice Chairman, or Division Head.
-3. Third offense: Reassignment to another staff position or responsibility.
-4. Fourth offense: Removal from staff with loss of all staff benefits.
+1. **First offense:** Warning from direct supervisor.
+2. **Second offense:** Warning from Convention Chairman, Vice Chairman, or Division Head.
+3. **Third offense:** Reassignment to another staff position or responsibility.
+4. **Fourth offense:** Removal from staff with loss of all staff benefits.
 
 Depending on the severity of the offense, the Convention Chairman, Vice Chairman, or Division Head may choose to enact a more severe penalty for each offense, including legal prosecution.

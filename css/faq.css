@@ -1,16 +1,30 @@
 h2 {
   font-size: 1.5em;
   font-weight: bold;
+  clear: both;
 }
 
 h3 {
   font-size: 1.3em;
   font-weight: bold;
   margin-left: 1em;
+  margin-top: 1.5em;
+  clear: both;
 }
 
 h4 {
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: bold;
   margin-left: 1.4em;
+  margin-top: 1.5em;
+  clear: both;
+}
+
+p {
+  margin-left: 1.4em;
+}
+
+hr {
+  background-color: #555;
+  margin: 2rem 0;
 }

@@ -16,7 +16,9 @@ The Art Show allows members of Anime Boston to display their works, as well as o
 1. TOC
 {:toc}
 
-## Reserving Space
+---
+
+### Reserving Space
 All participants in the Art Show (artists or agents) must be registered members of Anime Boston 2018.
 
 Display places for the Art Show are available on a FIRST-COME, FIRST-SERVED basis.
@@ -32,7 +34,7 @@ There is no fee for admission into the Anime Boston Art Show. Pieces may be mark
 
 Anime Boston will not accept any artwork via any form of postal service; all artwork must be delivered by the artist to the Art Show in person.
 
-## Setting Up at the Art Show
+### Setting Up at the Art Show
 The Art Show will be open for pre-registered artists on:
 - Thursday, April 18th: 8:00 PM - 9:00 PM
 - Friday, April 19th: 9:00 AM - 12:00 PM
@@ -51,7 +53,7 @@ An Artist will be given a space of up to half of one table length, OR half a gri
 
 Anime Boston Art Show staff will be on hand to assist in hanging and display of all artwork in the event that any artist needs assistance. To accommodate the needs of the Art Show and its participants, the Art Show staff may re-arrange artwork as necessary.
 
-## Display Guidelines
+### Display Guidelines
 All submissions must be an artist's original production. Anime Boston Art Show will reject artwork which appears to be traced or copied directly from an already existing piece. If it is determined by the Art Show Manager that the artwork is a plagiarism, it will be removed for the duration of the convention.
 
 Registered artists not attending the convention may designate an agent to display their work.
@@ -75,7 +77,7 @@ If there is a problem or question, please bring it to the attention of the Art S
 
 Failure to adhere to any of these rules could result in immediate revocation of convention membership without refund.
 
-## Bidders' Rules and Guidelines
+### Bidders' Rules and Guidelines
 Art Show Hours:
 - Friday, April 19th: 10:00 AM - 8:00 PM
 - Saturday, April 20th: 10:00 AM - 8:00 PM
@@ -101,7 +103,7 @@ An artist may choose to make their works available for immediate purchase via th
 
 No cameras of any sort are allowed in the Art Show, except for supervised press or staff. If you are found taking video or photos of artwork, we will require the photos to be deleted from your device. If you repeat the offense your camera will be confiscated, to be returned on Sunday between 10:00 a.m. - 3:00 p.m.
 
-## Disclaimers
+### Disclaimers
 The artist understands and expressly agrees that the use of Anime Boston's services are at the artist's own risk, that any item sold through the use of Anime Boston's services is at the artist's own discretion and risk and that the artist will be solely responsible for any damages caused to his or her personal property.
 
 While Anime Boston attempts to supervise the Art Show for as much of the convention as possible, Anime Boston and the New England Anime Society will not be liable for any loss, theft, or disappearance of artwork.

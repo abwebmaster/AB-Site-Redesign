@@ -20,9 +20,7 @@ Some of those artists have contributed comics to illustrate some of the hurdles 
 
 ---
 
-### How do I know if I'm ready to be in an Artists' Alley?
-You never really know until you try and you won't lose anything by trying, even if you don't do well at your first attempt. The important thing is to have the confidence that you can do it and to try your best.
-
+## How do I know if I'm ready to be in an Artists' Alley?
 <div class="artists-guide-image text-center float-right">
   <a href="https://www.animeboston.com/images/artists/aa_beginner_guide_1.jpg">
     <img src="https://www.animeboston.com/images/artists/aa_beginner_guide_1_thumb.jpg" alt="AA Beginner Guide Tip 1" class="img-fluid">
@@ -31,11 +29,11 @@ You never really know until you try and you won't lose anything by trying, even 
   <span class="input-subtitle">Click to enlarge</span>
 </div>
 
+You never really know until you try and you won't lose anything by trying, even if you don't do well at your first attempt. The important thing is to have the confidence that you can do it and to try your best.
+
 The entire event is a learning experience. Your neighboring artists are often happy to offer advice on a wide variety of subjects, from displays and preparation, to what to sell and how to color. This is because an artist's alley at just about any convention becomes a community of artists and not just total strangers sitting in the same room.
 
 Even if you don't meet your expectations, you will still walk away with something you didn't have before: experience.
-
----
 
 ## Preparing for the Artists' Alley
 
@@ -168,8 +166,6 @@ This is a matter of personal preference. Below are lists of what other artists u
   * Copic Markers- These are expensive and should not be invested in unless you have learned marker and painting techniques. They have generic sets as well as specialty sets such as the 'skin tone' set. They are costly but if you use markers a lot they may well be worth the cost.
   * Le Plume is another good brand that can be used with water.
 
----
-
 ## Artist Resources
 Some of the most commonly asked questions in the forums are:
 * "Where do I get this printed?"
@@ -218,16 +214,12 @@ With traditional work, it's easy to figure out if you are holding the original. 
 
 With digital work, what is an 'original' and what is a 'print' can be difficult to differentiate. A digital print looks the same no matter if it is the first off the press or the hundredth. If you want it to be billed as an original, you have to make sure you NEVER print it out a second time. Otherwise you have to alter the picture, make a label or put a stamp on it that says the picture is a print and not the original.
 
----
-
 ## Should I sell Fanart?
 You are more likely to sell anime fanart than original at an anime convention. But that being said, you shouldn't be discouraged from doing non-anime art. Artists can do well selling works depicting Lady Gaga, Bieber, or even colorful ponies.
 
 You should also feel free to do completely original art. Try making your own characters or landscapes. Experiment and find your own style of creation. After all, every character starts off as an original creation.
 
 Above all, you should enjoy what you make.
-
----
 
 ## Artist Survival Guide
 

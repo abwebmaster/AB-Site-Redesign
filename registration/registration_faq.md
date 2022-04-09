@@ -113,7 +113,7 @@ The best way to be sure of your registration is to *enter a complete and accurat
 
 Be sure to submit payment immediately. Your registration is not valid and you won't receive your confirmation email until it is paid!
 
-*Mailed Payments*  
+**Mailed Payments**  
 Assuming you mail payment immediately (which you should!), it takes:
 1. 1-2 weeks to reach us in the mail. Express mail will not help, as we only check the P.O. Box twice a week.
 2. Up to 1 week for us to check the mailbox and enter the payment in our database. You can check the link in your confirmation email "View My Online Confirmation", which will be updated once your check is received and processed.
@@ -121,10 +121,10 @@ Assuming you mail payment immediately (which you should!), it takes:
 
 So, *allow six weeks from the time you sent payment* before asking about your registration.
 
-*Credit Card Payments*  
+**Credit Card Payments**  
 If you pay with a credit card, it should clear immediately.
 
-*In-person Pre-registration Events*  
+**In-person Pre-registration Events**  
 If you registered in person at a live event and have not received a confirmation e-mail, it is possible that:
 1. The registrations have not been entered into the system yet. Please check the [Registration Events](/registration/registration_events/) page and confirm that the event you attended is listed as “complete” before contacting Customer Service.
 2. You did not list a valid e-mail address on the registration form. Please contact Customer Service to resolve this, and have proof of payment available (your written receipt or a record of credit card payment).
@@ -212,7 +212,7 @@ hotel guest if you wish to use the pool or fitness center facilities.
 
 ---
 
-## Attendance Cap:
+## Attendance Cap
 
 For every year except one, more vendors, industry, panelists and, most importantly, attendees are excited to come to Anime Boston. To handle this growth, we moved from our humble beginnings at the Boston Park Plaza to our current home at the Hynes Convention Center and Sheraton Boston hotel.
 
